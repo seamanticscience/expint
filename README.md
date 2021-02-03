@@ -1,6 +1,6 @@
 # expint
 
-Python function for evaluation of exponential integrals, E<sub>n</sub>(x), with real values, _not just integers_, of the order "n" from the paper by Navas-Palencia (2018) in the journal Numerical Algorithms [10.1007/s11075-017-0331-z](http://doi.org/10.1007/s11075-017-0331-z). 
+Python function for evaluation of exponential integrals, E<sub>n</sub>(x), with real values, _not just integers_, of the order "n" from the paper by Navas-Palencia (2018) in the journal Numerical Algorithms, doi:[10.1007/s11075-017-0331-z](http://doi.org/10.1007/s11075-017-0331-z). 
 
 The exponential integral (see also `scipy.special.expn`) can be related to the upper incomplete gamma function:
 ![\begin{align*}
